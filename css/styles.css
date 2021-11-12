@@ -45,7 +45,7 @@ body {
     height: 5px;
     width: 100%;
     border-radius: 10px;
-    background: -webkit-linear-gradient(#d7e740, #c474c9);
+    background: -webkit-linear-gradient(#e699b9, #c976a4);
 }
 
 p {
@@ -90,7 +90,7 @@ header {
     transition: all .3s ease-in-out;
 }
 .nav-list a:hover {
-    color: #c025c7;
+    color: #e699b9;
 }
 .logo img {
     height: 80px;
@@ -191,7 +191,7 @@ background: linear-gradient(to right, #ffdde1, #ee9ca7);
     color: #191919;
 }
 .box a:hover {
-    color: #c025c7;
+    color: #e699b9;
 }
 
 /* FOOTER */
@@ -209,7 +209,7 @@ footer {
     transition: color .3s ease-in-out;
 }
 .icons i:hover {
-    color: #c025c7;
+    color: #e699b9;
 }
 .icons {
     display: flex;
